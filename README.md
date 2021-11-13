@@ -1,5 +1,5 @@
 # sap-api-integrations-business-partner-events    
-sap-api-integrations-business-partner-events  は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的として、SAP上で発生したBP(ビジネスパートナー)イベントを、SAP API で出力するマイクロサービスです。  
+sap-api-integrations-business-partner-events  は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的として、SAP上で発生したBP(ビジネスパートナ)イベントを、SAP API で出力するマイクロサービスです。  
 sap-api-integrations-business-partner-events  には、サンプルのAPI Json フォーマットが含まれています。
 sap-api-integrations-business-partner-events  は、オンプレミス版である（＝クラウド版ではない）SAPS4HANABusinessEvents の利用を前提としています。クラウド版APIを利用する場合は、ご注意ください。  
 https://api.sap.com/event/SAPS4HANABusinessEvents_BusinessPartnerEvents/overview
